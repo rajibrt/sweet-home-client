@@ -1,0 +1,47 @@
+[
+    {
+        "_id": 1,
+        "city_name": "Berlin",
+        "city_img": "https://i.ibb.co/RNWgFvq/berlin.webp"
+    },
+    {
+        "_id": 2,
+        "city_name": "Hamburg",
+        "city_img": "https://i.ibb.co/26xK7GB/hamburg.webp"
+    },
+    {
+        "_id": 3,
+        "city_name": "Munich",
+        "city_img": "https://i.ibb.co/Cn1DrgV/Munich.webp"
+    },
+    {
+        "_id": 4,
+        "city_name": "Frankfurt am Main",
+        "city_img": "https://i.ibb.co/g3B1nxh/frankfurt-am-main.webp"
+    },
+    {
+        "_id": 5,
+        "city_name": "Cologne",
+        "city_img": "https://i.ibb.co/sJZ39GY/cologne.webp"
+    },
+    {
+        "_id": 6,
+        "city_name": "Stuttgart",
+        "city_img": "https://i.ibb.co/VjG72zx/stuttgart.webp"
+    },
+    {
+        "_id": 7,
+        "city_name": "Dortmund",
+        "city_img": "https://i.ibb.co/njLtskD/dortmund.webp"
+    },
+    {
+        "_id": 8,
+        "city_name": "Eat",
+        "city_img": "https://i.ibb.co/GMFV8kj/eat.webp"
+    },
+    {
+        "_id": 9,
+        "city_name": "Dusseldorf",
+        "city_img": "https://i.ibb.co/w6PP4Hw/dusseldorf.webp"
+    }
+]
