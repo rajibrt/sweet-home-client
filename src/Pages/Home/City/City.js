@@ -10,6 +10,7 @@ const City = () => {
         queryKey: ['allCity'],
         queryFn: async () => {
             const res = await fetch('https://sweet-home-server-nahiannahin.vercel.app/cities')
+            // const res = await fetch("city.json")
             const data = res.json();
             return data;
         }

@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, Outlet } from 'react-router-dom';
 import Header from '../../Shared/Header/Header';
 import { HiHomeModern, HiPencilSquare } from "react-icons/hi2";
-import { RiFacebookBoxFill, RiLinkedinBoxFill, RiLoginCircleLine } from "react-icons/ri";
+import { RiLoginCircleLine } from "react-icons/ri";
 import { MdSupportAgent } from "react-icons/md";
 import { FaFacebookSquare, FaInstagramSquare, FaLinkedin, FaYoutubeSquare } from "react-icons/fa";
 import './Main'

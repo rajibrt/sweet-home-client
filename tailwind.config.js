@@ -15,6 +15,8 @@ module.exports = {
 
           "bText": "#30384F",
 
+          "bgLight": "#f7f7f7",
+
           "secondary": "#c13f1b",
 
           "accent": "#ff8292",

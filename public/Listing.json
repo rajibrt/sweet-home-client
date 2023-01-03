@@ -1,0 +1,30 @@
+[
+    {
+        "_id": 1,
+        "city_name": "Berlin",
+        "img": "https://i.ibb.co/4NRyMFQ/beedroom-1.webp",
+        "name": "2 Bed room in Berlin 120sft",
+        "address": "Richardstraße 27, 12043, Berlin, Neukölln, Berlin",
+        "rental": 672,
+        "deposit": 8500,
+        "room_size": 40,
+        "room_conditions": "Excellent",
+        "rent_durations": "3 Months",
+        "category": "Studion Apartments",
+        "details": "2 Zimmer-Wohnung mit Balkon in Berlin NeuköllnDie Wohnung in der Richardstraße liegt inmitten von Berlin Neukölln. Die U-Bahn-Station Karl-Marx-Straße ist fußläufig erreichbar. In unmittelbarer Umgebung befinden sich diverse Schulen, Kitas, sowie Geschäfte des täglichen Bedarfs.Die Wohnung verfügt über einen Balkon, sowie eine Einbauküche. Das Bad ist zum größten Teil gefliest. Darüber hinaus befindet sich ein Einbauschrank im Flur."
+    },
+    {
+        "_id": 2,
+        "city_name": "Berlin",
+        "img": "https://i.ibb.co/4NRyMFQ/beedroom_1.webp",
+        "name": "2 Bed room in Berlin 120sft",
+        "address": "Richardstraße 27, 12043, Berlin, Neukölln, Berlin",
+        "rental": 672,
+        "deposit": 8500,
+        "room_size": 40,
+        "room_conditions": "Excellent",
+        "rent_durations": "3 Months",
+        "category": "Studion Apartments",
+        "details": "2 Zimmer-Wohnung mit Balkon in Berlin NeuköllnDie Wohnung in der Richardstraße liegt inmitten von Berlin Neukölln. Die U-Bahn-Station Karl-Marx-Straße ist fußläufig erreichbar. In unmittelbarer Umgebung befinden sich diverse Schulen, Kitas, sowie Geschäfte des täglichen Bedarfs.Die Wohnung verfügt über einen Balkon, sowie eine Einbauküche. Das Bad ist zum größten Teil gefliest. Darüber hinaus befindet sich ein Einbauschrank im Flur."
+    }
+]
